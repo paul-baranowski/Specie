@@ -1,2 +1,0 @@
-# specie
-Created with CodeSandbox
